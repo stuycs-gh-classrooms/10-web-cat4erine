@@ -1,3 +1,3 @@
 # fcs-html-template
-### Name:
-### Period:
+### Name: Catherine Chen
+### Period: 10
