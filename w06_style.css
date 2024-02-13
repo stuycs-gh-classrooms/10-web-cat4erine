@@ -6,6 +6,10 @@ h1 {
   color: #BA324F;
 }
 
+h3 {
+  color: #694463;
+}
+
 a {
   color: #175676;
 }
@@ -16,5 +20,10 @@ li {
 
 img {
   width: 300px;
-  height: 300px;
+  height: 200px;
+}
+
+body
+{
+background-color: #FEC0CE;
 }
