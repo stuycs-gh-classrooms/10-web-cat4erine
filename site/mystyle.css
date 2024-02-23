@@ -3,12 +3,20 @@ html {
 	padding: 0;
 	}
 body {
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #555753;
+	font: 95% georgia, sans-serif;
+	line-height: 2;
+	color: #4795CD;
+  background-color: #1B191E;
 	margin: 1;
 	padding: 4;
 	}
+h1{
+  font: 450% Impact, fantasy;
+  text-align: center;
+}
+h2{
+
+}
 p {
 	margin-top: 0;
 	text-align: justify;
@@ -25,15 +33,6 @@ nav {
 
 .crumb {
   display: inline-block;
-}
-
-.crumb a::after {
-  display: inline-block;
-  color: #000;
-  content: '>';
-  font-size: 80%;
-  font-weight: bold;
-  padding: 0 3px;
 }
 
 .words {
